@@ -14,7 +14,11 @@ public class StackNodeOperations implements NodeOperations {
 
     @Override
     public void show(Node head) {
-
+        Node tmp = head;
+        while(tmp != null) {
+            System.out.println(tmp.data);
+            tmp = tmp.next;
+        }
     }
 
     @Override
