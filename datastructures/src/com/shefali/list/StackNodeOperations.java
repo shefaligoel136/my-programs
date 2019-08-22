@@ -2,27 +2,80 @@ package com.shefali.list;
 
 public class StackNodeOperations implements NodeOperations {
 
-    @Override
-    public void push(Node head, int data) {
+    Node head = null;
 
+    @Override
+    public void push(int data) {
+        Node tmp = new Node(data,null);
+        tmp.next = head;
+        head = tmp;
     }
 
     @Override
-    public Node pop(Node head) {
-        return null;
-    }
-
-    @Override
-    public void show(Node head) {
-        Node tmp = head;
-        while(tmp != null) {
-            System.out.println(tmp.data);
-            tmp = tmp.next;
+    public void del() {
+        if(head==null)
+        {
+            System.out.println("no element to delete");
+        }
+        else {
+            head = head.next;
         }
     }
 
     @Override
-    public int length(Node head) {
-        return 0;
+    public void show() {
+        Node tmp = head;
+        if(tmp==null)
+        {
+            System.out.println("No element to show");
+        }
+        else {
+            while (tmp != null) {
+                System.out.println(tmp.data);
+                tmp = tmp.next;
+            }
+        }
+
+    }
+
+    @Override
+    public void length() {
+        Node tmp = head;
+        int l = 0;
+        if(tmp==null)
+        {
+            System.out.println(l);
+        }
+        else{
+            while(tmp != null)
+            {
+                l = l+1;
+                tmp = tmp.next;
+            }
+            System.out.println(l);
+        }
+    }
+
+    public static void main(String[] args) {
+        StackNodeOperations stackNodeOperations = new StackNodeOperations();
+        stackNodeOperations.push(10);
+        stackNodeOperations.push(20);
+        stackNodeOperations.push(30);
+        stackNodeOperations.push(40);
+        stackNodeOperations.length();
+        stackNodeOperations.show();
+        stackNodeOperations.del();
+        stackNodeOperations.del();
+        stackNodeOperations.del();
+        stackNodeOperations.show();
+        stackNodeOperations.del();
+        stackNodeOperations.del();
+        stackNodeOperations.show();
+        stackNodeOperations.push(20);
+        stackNodeOperations.push(30);
+        stackNodeOperations.show();
+        stackNodeOperations.length();
+
+
     }
 }
