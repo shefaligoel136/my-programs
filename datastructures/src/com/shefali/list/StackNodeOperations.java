@@ -6,8 +6,7 @@ public class StackNodeOperations implements NodeOperations {
 
     @Override
     public void push(int data) {
-        Node tmp = new Node(data,null);
-        tmp.next = head;
+        Node tmp = new Node(data,head);
         head = tmp;
     }
 

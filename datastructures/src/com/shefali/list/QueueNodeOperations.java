@@ -36,11 +36,6 @@ public class QueueNodeOperations implements NodeOperations {
         else
         {
             head = head.next;
-//            while(tmp.next.next!=null)
-//            {
-//                tmp = tmp.next;
-//            }
-//            tmp.next = null;
         }
     }
 
@@ -86,8 +81,8 @@ public class QueueNodeOperations implements NodeOperations {
         queueNodeOperations.push(40);
         queueNodeOperations.length();
         queueNodeOperations.show();
-        queueNodeOperations.del();
-        queueNodeOperations.del();
+        //queueNodeOperations.del();
+        //queueNodeOperations.del();
         queueNodeOperations.del();
         queueNodeOperations.show();
         queueNodeOperations.del();
