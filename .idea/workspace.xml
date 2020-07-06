@@ -2,122 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c4f5f74-a76f-4cd7-a2bb-cafd4b88e9e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/ArrayToBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/BSTfromPreorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/ClosestElementInBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/GreaterSumTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/InorderPREandSUCC_Recursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/InorderPredecessorAndSuccessor_Iterative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/KthSmallestLargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/LargestBSTInBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/LargestNumberLessThanEqualToN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/LeastGreaterElementOnRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/LinkedListToBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/MaxElementInPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/MaximumUniqueElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/MergeTwoBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/NodeInGivenRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/OnlyOneChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/PairWithGivenSum_Hashing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/RankNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/RemoveKeysOutOfRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/ShortestDiscBTWtwoNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/ValidatePreorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/AllFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/IsBinaryTree_a_Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/KLargestNdSmallest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/KthLargestNdSmallest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/CommonElementInAllArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/ElementInSortedRotatedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/ElementsSumClosestToZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/ExponentialSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/FloorInSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/JumpSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/MinElementInSortedOrRotatedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/NearestSmallestNumberOnLeft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/PairWithGivenDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/PairWithMaxProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/ValueEqualsIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/SortingAlgorithms/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/SortingAlgorithms/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/SortingAlgorithms/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/StringPractise/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/BasicHash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/CountDistinctElementInEveryWindowofSizeK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/CountFrequencyOfEachCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/DuplicateWithinKdistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/FirstNonRepeatedCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/FourElementsLeftSumEqualaRightSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/LongestIncreasingConsecutiveSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/LoopedLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/MaximumDistanceOfTwoOccurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/MinimumIndexSumforCommonElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/OneAOneBFormsK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/PairsWhoseSumIsDivisibleByK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/PermutationOfNumber1toN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/PointsOnSameLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/RemoveDuplicateFromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/SameSetOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/SecondMostRepeated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/SelfNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/SmallestSubArrayWithAllOccurrencesOfaMostFrequentElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/SymmetricPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/VerticalSumInaGivenBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/list/AlternateNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/list/CircularLinkNodeOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/list/DeleteMiddleFromStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/list/DoubleListNodeOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/list/DoubleNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/list/ListNodeOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/list/MinInStackNodeOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/list/NextGreaterStackNodeOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/list/PriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/practice2020/LambdaExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/practice2020/MultiThreading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/practice2020/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/practice2020/TrappingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/AllRootToPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/BSTdeletion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/BSTinsertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/CheckSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/ChildrenSumProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/DensityBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/DiameterOfBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/DistanceLeftmostRightmost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/DoubleSpriral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/KdistanceFromNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/KdistanceFromRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/LeftmostRightmost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/LevelOrderWithRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/MaxRootToLeafSumPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/MirrorClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/NodesBetweenTwoNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/NthInorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/PathOfGivenNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/PerfectBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/PerfectLevelSet1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/PerfectLevelSet1Again.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/ReverseLevelOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/SameLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/SumPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/SumTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/SymmetricTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/TwoCousins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/TwoCousinsNoDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/CountAllPossiblePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/GraphOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/MinimalSpanningTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/ShortestPathFirst_Weighted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/ShortestPathFirst_unWeighted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/TopologicalSort_HashNSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/TopologicalSort_InDegree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/ConnectNRopes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/Dearrangement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/LargestTripletProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/MedianOfRunningIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/NodesLessThanX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/SortKSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/list/PrepBytes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructures/src/com/shefali/list/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/list/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructures/src/com/shefali/list/QueueNodeOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/list/QueueNodeOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructures/src/com/shefali/list/StackNodeOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/list/StackNodeOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructures/src/com/shefali/tree/Heap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/KthLargestNdSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/KthLargestNdSmallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructures/src/com/shefali/graph/GraphNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructures/src/com/shefali/graph/GraphNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-programs" beforeDir="false" afterPath="$PROJECT_DIR$/my-programs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-programs/gfg program" beforeDir="false" afterPath="$PROJECT_DIR$/my-programs/GFG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/datastructures/com/shefali/list/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/datastructures/com/shefali/list/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/datastructures/com/shefali/list/QueueNodeOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/datastructures/com/shefali/list/QueueNodeOperations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/datastructures/com/shefali/list/StackNodeOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/datastructures/com/shefali/list/StackNodeOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/datastructures/com/shefali/HeapDataStructure/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/datastructures/com/shefali/HeapDataStructure/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/datastructures/com/shefali/HeapDataStructure/IsBinaryTree_a_Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/datastructures/com/shefali/HeapDataStructure/IsBinaryTree_a_Heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/datastructures/com/shefali/HeapDataStructure/KthLargestNdSmallest.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/datastructures/com/shefali/HeapDataStructure/KthLargestNdSmallest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/datastructures/com/shefali/graph/GraphNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/datastructures/com/shefali/graph/GraphNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/datastructures/com/shefali/graph/GraphOperationsImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/datastructures/com/shefali/graph/GraphOperationsImp.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -134,51 +44,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/AllFunctions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2352">
-              <caret line="100" column="19" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
-              <folding>
-                <element signature="e#1892#1893#0" expanded="true" />
-                <element signature="e#1930#1931#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/HeapSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/KLargestNdSmallest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="21" column="25" selection-start-line="21" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/IsBinaryTree_a_Heap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/KthLargestNdSmallest.java">
+        <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/CountAllPossiblePath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="312">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -203,7 +73,14 @@
       <find>toStr</find>
       <find>equals</find>
       <find>add</find>
+      <find>Integer</find>
     </findStrings>
+    <replaceStrings>
+      <replace>int</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\thebe\IdeaProjects\untitled\datastructures\src\com\shefali\GraphDataStructure</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -211,28 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/VerticalSumInaGivenBinaryTree.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/CountDistintElementInEveryWindowofSizeK.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/CountDistinctElementInEveryWindowofSizeK.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/Node.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/hashing/LongestIncreasingConsecutiveSubsequence.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/SortingAlgorithms/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/SortingAlgorithms/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/SortingAlgorithms/InsertionSort.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/JumpSearch.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/ExponentialSearch.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/ElementsSumClosestToZero.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/ValueEqualsIndex.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/PairWithGivenDifference.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/MinElementInSortedOrRotatedArray.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/NearestSmallestNumberOnLeft.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/PairWithMaxProduct.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/FloorInSortedArray.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/practice2020/TrappingRainWater.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/ElementInSortedRotatedArray.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/GreaterSumTree.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/MergeTwoBST.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/RankNode.java" />
         <option value="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/KthSmallestElement.java" />
         <option value="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/OnlyOneChild.java" />
         <option value="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/LargestNumberLessThanEqualToN.java" />
@@ -258,10 +113,32 @@
         <option value="$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/InorderPREandSUCC_Recursive.java" />
         <option value="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/ToCheck.java" />
         <option value="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/AllFunctions.java" />
-        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/HeapSort.java" />
         <option value="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/KLargestNdSmallest.java" />
         <option value="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/IsBinaryTree_a_Heap.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/SortKSortedArray.java" />
         <option value="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/KthLargestNdSmallest.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/ConnectNRopes.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/HeapSort.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/SmallestDearrangement.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/Dearrangement.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/NodesLessThanX.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/LargestTripletProduct.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/MedianOfRunningIntegers.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/graph/GraphListNode.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/graph/GraphNode.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/list/PrepBytes.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/DepthFirstSearch.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/GraphOperations.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/graph/TopologicalSort.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/TopologicalSort.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/TopologicalSort_HashNSet.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/TopologicalSort_InDegree.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/ShortestPathFirst.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/ShortestPathFirst_unWeighted.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/graph/Graph.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/ShortestPathFirst_Weighted.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/MinimalSpanningTree.java" />
+        <option value="$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/CountAllPossiblePath.java" />
       </list>
     </option>
   </component>
@@ -280,29 +157,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ds" type="58d84e3e:PackageViewProjectNode" />
-              <item name="datastructures" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="ds" type="58d84e3e:PackageViewProjectNode" />
-              <item name="datastructures" type="616d4139:PackageViewModuleNode" />
-              <item name="com.shefali" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="ds" type="58d84e3e:PackageViewProjectNode" />
-              <item name="datastructures" type="616d4139:PackageViewModuleNode" />
-              <item name="com.shefali" type="1f31426a:PackageElementNode" />
-              <item name="HeapDataStructure" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -323,6 +177,43 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ds" type="58d84e3e:PackageViewProjectNode" />
+              <item name="datastructures" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="ds" type="58d84e3e:PackageViewProjectNode" />
+              <item name="datastructures" type="616d4139:PackageViewModuleNode" />
+              <item name="com.shefali" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="ds" type="58d84e3e:PackageViewProjectNode" />
+              <item name="datastructures" type="616d4139:PackageViewModuleNode" />
+              <item name="com.shefali" type="1f31426a:PackageElementNode" />
+              <item name="GraphDataStructure" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="ds" type="58d84e3e:PackageViewProjectNode" />
+              <item name="datastructures" type="616d4139:PackageViewModuleNode" />
+              <item name="com.shefali" type="1f31426a:PackageElementNode" />
+              <item name="GraphDataStructure" type="1f31426a:PackageElementNode" />
+              <item name="MinimalSpanningTree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="ds" type="58d84e3e:PackageViewProjectNode" />
+              <item name="datastructures" type="616d4139:PackageViewModuleNode" />
+              <item name="com.shefali" type="1f31426a:PackageElementNode" />
+              <item name="GraphDataStructure" type="1f31426a:PackageElementNode" />
+              <item name="ShortestPathFirst_unWeighted.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -337,6 +228,11 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.shefali.GraphDataStructure" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -349,13 +245,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IsBinaryTree_a_Heap">
-    <configuration name="AllFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shefali.HeapDataStructure.AllFunctions" />
+  <component name="RunManager" selected="Application.CountAllPossiblePath">
+    <configuration name="CountAllPossiblePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shefali.GraphDataStructure.CountAllPossiblePath" />
       <module name="datastructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shefali.HeapDataStructure.*" />
+          <option name="PATTERN" value="com.shefali.GraphDataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,12 +259,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shefali.HeapDataStructure.HeapSort" />
+    <configuration name="MinimalSpanningTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shefali.GraphDataStructure.MinimalSpanningTree" />
       <module name="datastructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shefali.HeapDataStructure.*" />
+          <option name="PATTERN" value="com.shefali.GraphDataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -376,12 +272,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InorderPREandSUCC_Recursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shefali.BinarySearchTree.InorderPREandSUCC_Recursive" />
+    <configuration name="ShortestPathFirst_Weighted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shefali.GraphDataStructure.ShortestPathFirst_Weighted" />
       <module name="datastructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shefali.BinarySearchTree.*" />
+          <option name="PATTERN" value="com.shefali.GraphDataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -389,12 +285,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsBinaryTree_a_Heap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shefali.HeapDataStructure.IsBinaryTree_a_Heap" />
+    <configuration name="ShortestPathFirst_unWeighted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shefali.GraphDataStructure.ShortestPathFirst_unWeighted" />
       <module name="datastructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shefali.HeapDataStructure.*" />
+          <option name="PATTERN" value="com.shefali.GraphDataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -402,12 +298,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KLargestNdSmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shefali.HeapDataStructure.KLargestNdSmallest" />
+    <configuration name="TopologicalSort_InDegree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shefali.GraphDataStructure.TopologicalSort_InDegree" />
       <module name="datastructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shefali.HeapDataStructure.*" />
+          <option name="PATTERN" value="com.shefali.GraphDataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -417,11 +313,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IsBinaryTree_a_Heap" />
-        <item itemvalue="Application.KLargestNdSmallest" />
-        <item itemvalue="Application.HeapSort" />
-        <item itemvalue="Application.AllFunctions" />
-        <item itemvalue="Application.InorderPREandSUCC_Recursive" />
+        <item itemvalue="Application.CountAllPossiblePath" />
+        <item itemvalue="Application.MinimalSpanningTree" />
+        <item itemvalue="Application.ShortestPathFirst_Weighted" />
+        <item itemvalue="Application.ShortestPathFirst_unWeighted" />
+        <item itemvalue="Application.TopologicalSort_InDegree" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +347,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.27760968" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.26172465" />
       <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.25718608" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -460,14 +356,14 @@
       <window_info id="Favorites" order="6" sideWeight="0.5008183" side_tool="true" weight="0.25718608" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3282313" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" weight="0.9489796" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" weight="0.59183675" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39795917" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.62520456" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.6241497" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5030257" side_tool="true" weight="0.5090016" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3282313" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3282313" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
@@ -479,7 +375,7 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.24962178" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.2118003" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.30484116" />
       <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.25718608" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -487,15 +383,15 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5008183" side_tool="true" weight="0.25718608" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" weight="0.4931973" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3282313" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" weight="0.59183675" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39795917" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.62520456" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.6241497" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5030257" side_tool="true" weight="0.5090016" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3282313" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3282313" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
@@ -547,18 +443,6 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/datastructures/src/com/shefali/hashing/LoopedLinkedList.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
@@ -573,281 +457,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/hashing/SelfNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/hashing/CountDistinctElementInEveryWindowofSizeK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/hashing/LongestIncreasingConsecutiveSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/SortingAlgorithms/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/SortingAlgorithms/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/SortingAlgorithms/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="5" selection-start-line="17" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/JumpSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/ExponentialSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/ElementsSumClosestToZero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/ValueEqualsIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/MinElementInSortedOrRotatedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/PairWithMaxProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/FloorInSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/practice2020/TrappingRainWater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/CommonElementInAllArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/ElementInSortedRotatedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/NearestSmallestNumberOnLeft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/SearchAlgorithms/PairWithGivenDifference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/tree/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/tree/BSTinsertion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-853">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/GreaterSumTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/hashing/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/RankNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/OnlyOneChild.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/LargestNumberLessThanEqualToN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/tree/ReverseLevelOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="32" column="39" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="32" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/KthSmallestLargestElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="72" column="50" selection-start-line="72" selection-start-column="50" selection-end-line="72" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/NodeInGivenRange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/ShortestDiscBTWtwoNodes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="5" lean-forward="true" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/MaxElementInPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="54" column="37" lean-forward="true" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/LinkedListToBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/ClosestElementInBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="25" column="45" selection-start-line="17" selection-start-column="8" selection-end-line="25" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/ValidatePreorder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="35" column="53" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/MaximumUniqueElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/LargestBSTInBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/ArrayToBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/RemoveKeysOutOfRange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/PairWithGivenSum_Hashing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/BinarySearchTree/BSTfromPreorder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="759">
@@ -891,9 +500,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/IsBinaryTree_a_Heap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/AllFunctions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2352">
+        <state relative-caret-position="492">
           <caret line="100" column="19" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
           <folding>
             <element signature="e#1892#1893#0" expanded="true" />
@@ -902,10 +518,301 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/list/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/KLargestNdSmallest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/SortKSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/ConnectNRopes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/NodesLessThanX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="24" column="61" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/LargestTripletProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/Dearrangement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/KthLargestNdSmallest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="23" column="88" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/MedianOfRunningIntegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/tree/CheckSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/tree/DistanceLeftmostRightmost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/tree/DoubleSpriral.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="101" column="18" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/tree/KdistanceFromNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/list/PrepBytes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="76" column="47" lean-forward="true" selection-start-line="76" selection-start-column="47" selection-end-line="76" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/list/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/graph/GraphOperationsImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-713">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/graph/GraphOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/graph/GraphNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="138" column="8" selection-start-line="138" selection-start-column="8" selection-end-line="138" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="228" column="29" selection-start-line="228" selection-start-column="29" selection-end-line="228" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/TopologicalSort_InDegree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="53" column="13" lean-forward="true" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1114#1115#0" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/hashing/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/hashing/FirstNonRepeatedCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/hashing/SelfNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/hashing/LoopedLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/hashing/MaximumDistanceOfTwoOccurance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="652" column="18" selection-start-line="652" selection-start-column="18" selection-end-line="652" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/hashing/FourElementsLeftSumEqualaRightSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="6" column="59" lean-forward="true" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/hashing/LongestIncreasingConsecutiveSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/hashing/OneAOneBFormsK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/TopologicalSort_HashNSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/hashing/MinimumIndexSumforCommonElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/GraphOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="89" column="36" selection-start-line="89" selection-start-column="36" selection-end-line="89" selection-end-column="36" />
+          <folding>
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#2093#2094#0" expanded="true" />
+            <element signature="e#2136#2137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/PriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="332" column="19" selection-start-line="332" selection-start-column="19" selection-end-line="332" selection-end-column="19" />
+        <state relative-caret-position="64">
+          <caret line="343" column="12" selection-start-line="343" selection-start-column="12" selection-end-line="343" selection-end-column="12" />
           <folding>
             <element signature="e#4277#4278#0" expanded="true" />
             <element signature="e#4329#4330#0" expanded="true" />
@@ -915,31 +822,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/HeapSort.java">
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/MinimalSpanningTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="816">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="e#2265#2266#0" expanded="true" />
+            <element signature="e#2289#2290#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/IsBinaryTree_a_Heap.java">
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/ShortestPathFirst_Weighted.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+        <state relative-caret-position="231">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#2227#2228#0" expanded="true" />
+            <element signature="e#2268#2269#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/KLargestNdSmallest.java">
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/ShortestPathFirst_unWeighted.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="21" column="25" selection-start-line="21" selection-end-line="22" />
+        <state relative-caret-position="492">
+          <caret line="66" column="24" lean-forward="true" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/HeapDataStructure/KthLargestNdSmallest.java">
+    <entry file="file://$PROJECT_DIR$/datastructures/src/com/shefali/GraphDataStructure/CountAllPossiblePath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        <state relative-caret-position="312">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
